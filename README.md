@@ -1,6 +1,6 @@
 # 🦅 CLONE LOGIN NETFLIX 🦅
 
-## Seguindo o mapa de "Front-end developer", no site da RoadMap.sh: 
+## Seguindo o mapa de "Front-end developer"no site da RoadMap.sh: 
 https://roadmap.sh/frontend 
 
 
