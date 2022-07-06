@@ -1,7 +1,6 @@
 # 🦅 CLONE LOGIN NETFLIX 🦅
 
-## Seguindo o mapa de "Front-end developer"no site da [RoadMap.sh] 
-(https://roadmap.sh/frontend) 
+## Seguindo o mapa de "Front-end developer"no site da [RoadMap.sh](https://roadmap.sh/frontend) 
 
 
 ## Foi desenvolvido um clone do Login do site da Netlfix, brincando um pouco dentro do mundo do JavaScript.
